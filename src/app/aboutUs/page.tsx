@@ -20,7 +20,7 @@ export default function  Aboutus () {
     {/* Team Section */}
     <div className="max-w-6xl mx-auto mt-12">
       <h2 className="text-3xl font-semibold text-center text-red-500 mb-8">Meet Our Team</h2>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
         {/* Team Member 1 */}
         <div className="flex flex-col items-center">
           <img src="/team1.jpg" alt="Salman Ferhan" className="w-32 h-32 rounded-full object-cover border-4 border-red-300" />
