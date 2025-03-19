@@ -35,12 +35,19 @@ export default function  Aboutus () {
           <p className="text-blue-900">Director Media & Marketing</p>
         </div>
 
-        {/* Team Member 3 */}
-       {/*<div className="flex flex-col items-center">
+         {/* Team Member 3 */}
+       <div className="flex flex-col items-center">
+          <img src="/team4.jpg" alt="Harper Russo" className="w-32 h-32 rounded-full object-cover border-4 border-red-300" />
+          <h3 className="text-xl font-bold text-red-600 mt-4">Hiba Adil</h3>
+          <p className="text-blue-900">Director HR</p>
+        </div>
+
+        {/* Team Member 4 */}
+       <div className="flex flex-col items-center">
           <img src="/team3.jpg" alt="Harper Russo" className="w-32 h-32 rounded-full object-cover border-4 border-red-300" />
-          <h3 className="text-xl font-bold text-red-600 mt-4">Harper Russo</h3>
-          <p className="text-gray-700">Leader</p>
-        </div>*/}
+          <h3 className="text-xl font-bold text-red-600 mt-4">Faisal Shakeel</h3>
+          <p className="text-blue-900">Directig Fundraising & Outreach</p>
+        </div>  
       </div>
     </div>
   </section>
